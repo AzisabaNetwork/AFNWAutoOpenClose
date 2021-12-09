@@ -2,3 +2,8 @@ main: net.azisaba.afnw.autoOpenClose.AFNWAutoOpenClose
 name: AFNWAutoOpenClose
 version: 1.0.0
 api-version: 1.17
+commands:
+  afnwclose:
+    permission: afnwautoopenclose.afnwclose
+  afnwopen:
+    permission: afnwautoopenclose.afnwopen
